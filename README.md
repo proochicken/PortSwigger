@@ -21,3 +21,28 @@
 | Practitioner     | Blind SQL injection with out-of-band interaction                                              | Not Solved   |
 | Practitioner     | Blind SQL injection with out-of-band data exfiltration                                        | Not Solved   |
 | Practitioner     | SQL injection with filter bypass via XML encoding                                             | [Solved](https://github.com/proochicken/PortSwigger/tree/main/SQL_injection#lab-sql-injection-with-filter-bypass-via-xml-encoding)   |
+
+
+
+
+## Access Control Vulnerabilities
+
+| **Difficulty**   | **Title**                                                                                     | **Status**   |
+|------------------|-----------------------------------------------------------------------------------------------|--------------|
+| Apprentice       | Unprotected admin functionality                                                              | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-unprotected-admin-functionality)       |
+| Apprentice       | Unprotected admin functionality with unpredictable URL                                       | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-unprotected-admin-functionality-with-unpredictable-url)       |
+| Apprentice       | User role controlled by request parameter                                                    | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-user-role-controlled-by-request-parameter)       |
+| Apprentice       | User role can be modified in user profile                                                    | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-lab-user-role-can-be-modified-in-user-profile)       |
+| Apprentice       | User ID controlled by request parameter                                                      | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-user-id-controlled-by-request-parameter)       |
+| Apprentice       | User ID controlled by request parameter, with unpredictable user IDs                         | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-user-id-controlled-by-request-parameter-with-unpredictable-user-ids)       |
+| Apprentice       | User ID controlled by request parameter with data leakage in redirect                        | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect)       |
+| Apprentice       | User ID controlled by request parameter with password disclosure                             | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-user-id-controlled-by-request-parameter-with-password-disclosure)       |
+| Apprentice       | Insecure direct object references                                                            | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-insecure-direct-object-references-idor)       |
+| Practitioner     | URL-based access control can be circumvented                                                 | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-lab-url-based-access-control-can-be-circumvented)       |
+| Practitioner     | Method-based access control can be circumvented                                              | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-lab-method-based-access-control-can-be-circumvented)       |
+| Practitioner     | Multi-step process with no access control on one step                                        | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-multi-step-process-with-no-access-control-on-one-step)       |
+| Practitioner     | Referer-based access control                                                                 | [Solved](https://github.com/proochicken/PortSwigger/tree/main/Access_control#lab-referer-based-access-control)   |
+
+
+
+
